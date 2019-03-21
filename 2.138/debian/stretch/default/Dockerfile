@@ -46,5 +46,5 @@ USER jenkins
 
 # Install Jenkins plugins.
 
-COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
+COPY assets/plugins.txt /usr/share/jenkins/ref/plugins.txt
 RUN install-plugins.sh < /usr/share/jenkins/ref/plugins.txt
