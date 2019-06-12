@@ -1,5 +1,6 @@
 ansible
 ant
+authorize-project
 bitbucket
 blueocean
 build-timeout
