@@ -16,6 +16,7 @@ ldap
 locale
 mailer
 matrix-auth
+mattermost
 pipeline-stage-view
 slack
 sonar
