@@ -1,4 +1,5 @@
 ansible
+ansible-tower
 ant
 authorize-project
 bitbucket
