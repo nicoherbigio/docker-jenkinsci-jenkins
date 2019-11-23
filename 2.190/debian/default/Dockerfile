@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.190.1
+FROM jenkins/jenkins:2.190.2
 
 LABEL maintainer="Nico Herbig <nico@nicoherbig.io>"
 
