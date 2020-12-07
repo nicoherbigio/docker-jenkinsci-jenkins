@@ -3,7 +3,6 @@
 ## Supported tags and respective `Dockerfile` links
 
 -	[`2.263`, `2.263.1`](https://github.com/nicoherbigio/docker-jenkinsci-jenkins/blob/master/2.263/debian/default/Dockerfile)
--	[`2.249`, `2.249.3`](https://github.com/nicoherbigio/docker-jenkinsci-jenkins/blob/master/2.249/debian/default/Dockerfile)
 
 ## Copyleft
 
