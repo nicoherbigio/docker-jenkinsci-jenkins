@@ -11,7 +11,9 @@ env:
   DOCKER_IMAGE_CONTEXT_PATH: 2.263/debian/default/
   DOCKERHUB_IMAGE_TAGS: |
     nicoherbigde/jenkinsci-jenkins:2.263
+    nicoherbigio/jenkinsci-jenkins:2.263
     nicoherbigde/jenkinsci-jenkins:2.263.2
+    nicoherbigio/jenkinsci-jenkins:2.263.2
 
 jobs:
   build-and-push:
